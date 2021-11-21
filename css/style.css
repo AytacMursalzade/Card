@@ -1,0 +1,86 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+  
+}
+
+.icn{
+    background-color: #BC9256;
+  
+    color: rgb(15, 27, 15);
+    width: 557px;
+    height: 295px;
+    margin-left: 283px;
+    margin-top: 40px;
+    border-radius: 11px;
+
+}
+
+.master{
+    width: 557px;
+    height: 66px;
+    display: inline-block;
+}
+
+.master img{
+    width: 100px;
+    height:75px;
+    float: right;
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-right: 10px;
+    border-radius: 6px;
+    margin-bottom: 5px;
+
+}
+
+.cfg span{
+    font-size: 40px;
+    display: inline-block;
+    margin-left: 54px;
+    text-shadow: 5px 5px 10px rgb(15, 27, 15);
+    margin-top: 11px;
+    letter-spacing:6px;
+    
+}
+
+.a span{
+    width: 6px;
+    height: 10px;
+    color: rgb(209, 183, 183);
+    margin-left: 89px;
+    text-shadow: 5px 5px 10px rgb(15, 27, 15);
+
+}
+
+.first span{
+    width: 15px;
+    height: 15px;
+    margin-left: 298px;
+    text-shadow: 5px 5px 10px rgb(40, 99, 40);
+}
+
+.mistercard .abc{
+    margin-left: 27px;
+    font-size: 45px;
+    
+    margin-top: 15px;
+}
+
+.mistercard img{
+    width: 58px;
+    height: 58px;
+    margin-left: 45px;
+    margin-top: -5px;
+   
+}
+
+.qwe{
+    box-sizing: border-box;
+    text-shadow: 5px 5px 10px rgb(40, 99, 40);
+    color: rgb(28, 43, 28);
+    margin-left: 27px;
+    
+    
+}
+
